@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmohamedgaber&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmohamedgaber" /> </p>
 
-- 🌱 I’m currently learning **Asp.net core Api and Mvc**
+- 🌱 I'm improving my skills and now **freelancing** with **ASP.NET Core (MVC, API)**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/AhmedMohamedGaber](https://github.com/AhmedMohamedGaber)
 
