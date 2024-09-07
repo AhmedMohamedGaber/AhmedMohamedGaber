@@ -5,20 +5,20 @@
 
 <hr/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=680&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Mohamed!;+A+.Net+developer👨‍💻;I'm+from+Egypt🐫☪️▲𓂀𓋹𓁈𓃠𓆃☥𓅓𓆣...;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=680&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Mohamed!;+A+.Net+developer👨🏻‍💻;I'm+from+Egypt🐫☪️▲𓂀𓋹𓁈𓃠𓆃☥𓅓𓆣...;" />
 </h1>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif">
 
 
 
-- 🌱 I'm improving my skills and now **freelancing** with **ASP.NET Core (MVC, API)**.
-
-- 👨‍💻 All of my projects are available at [https://github.com/AhmedMohamedGaber](https://github.com/AhmedMohamedGaber)
+- 🌱 I'm improving my skills  with **ASP.NET Core (MVC, API)**.
+- 🌐 I'm a **freelance** web developer.
+- 👨‍💻 All of my projects are available at [Github](https://github.com/AhmedMohamedGaber)
 
 - 💬 Ask me about **Asp.net**
 
-- 📫 How to reach me **elhmzawy91@gmail.com**
+- 📫 How to reach me **<a href="mailto:elhmzawy91@gmail.com">Gmail</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -53,6 +53,7 @@
   <br/><br/><br/>
 </div>
 <hr/>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <be>
 <div align=center>
@@ -62,3 +63,14 @@
 
 <img width=390  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmohamedgaber&theme=react" alt="ahmedmohamedgaber" />
 </div>
+
+<br/>
+<hr/>
+
+<div align="center">
+<a href="https://www.paypal.com/paypalme/elhmzay91gmailcom" target="_blank">
+<img height="64" style="border:0px;height:64px;" src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_111x69.jpg" border="0" alt="Donate with PayPal" />
+</a>
+</div>
+
+<br/>
