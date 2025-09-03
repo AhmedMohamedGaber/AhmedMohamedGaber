@@ -5,6 +5,10 @@
 
 <p align="center">
   <a href="https://ahmedmohamedgaber.github.io/Portfolio-/#home" target="_blank">
+    <img src="https://raw.githubusercontent.com/AhmedMohamedGaber/AhmedMohamedGaber/main/preview.png" alt="Live Preview" width="900" />
+  </a>
+  <br/>
+  <a href="https://ahmedmohamedgaber.github.io/Portfolio-/#home" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Site-Visit%20Now-2ea44f?style=for-the-badge" alt="Live Site" />
   </a>
 </p>
