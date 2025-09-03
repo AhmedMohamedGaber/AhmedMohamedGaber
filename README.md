@@ -1,5 +1,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmohamedgaber&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmohamedgaber" /> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" /></p>
 
+
+
+
+<p align="center">
+  <a href="https://ahmedmohamedgaber.github.io/Portfolio-/#home" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Site-Visit%20Now-2ea44f?style=for-the-badge" alt="Live Site" />
+  </a>
+</p>
+
+
+
+
+
 [![LinkedIn Background Ahmed](https://media.licdn.com/dms/image/v2/D4D16AQF1kQrqVGi6-Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704901469227?e=1752710400&v=beta&t=50gg9wQqqFqLKf_QPy5ZcHUpaC37QGe48aFDGDgtlXY)](https://media.licdn.com/dms/image/v2/D4D16AQF1kQrqVGi6-Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704901469227?e=1752710400&v=beta&t=50gg9wQqqFqLKf_QPy5ZcHUpaC37QGe48aFDGDgtlXY)
 
 
