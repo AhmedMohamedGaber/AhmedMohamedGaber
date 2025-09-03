@@ -3,7 +3,9 @@
 
 
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWNS8hCWBGqjoco0R1CbV6uxO7jO_8HLoDRO6U4gIHlmE7Kf-hbzJk0Ww&s=10
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWNS8hCWBGqjoco0R1CbV6uxO7jO_8HLoDRO6U4gIHlmE7Kf-hbzJk0Ww&s=10" alt="Preview" width="800" />
+</p>
 
 <hr/>
 <h1 align="center">
