@@ -3,23 +3,7 @@
 
 
 
-<p align="center">
-  <a href="https://ahmedmohamedgaber.github.io/Portfolio-/#home" target="_blank">
-    <img src="https://raw.githubusercontent.com/AhmedMohamedGaber/AhmedMohamedGaber/main/preview.png" alt="Live Preview" width="900" />
-  </a>
-  <br/>
-  <a href="https://ahmedmohamedgaber.github.io/Portfolio-/#home" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Site-Visit%20Now-2ea44f?style=for-the-badge" alt="Live Site" />
-  </a>
-</p>
-
-
-
-
-
-[![LinkedIn Background Ahmed](https://media.licdn.com/dms/image/v2/D4D16AQF1kQrqVGi6-Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704901469227?e=1752710400&v=beta&t=50gg9wQqqFqLKf_QPy5ZcHUpaC37QGe48aFDGDgtlXY)](https://media.licdn.com/dms/image/v2/D4D16AQF1kQrqVGi6-Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704901469227?e=1752710400&v=beta&t=50gg9wQqqFqLKf_QPy5ZcHUpaC37QGe48aFDGDgtlXY)
-
-
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWNS8hCWBGqjoco0R1CbV6uxO7jO_8HLoDRO6U4gIHlmE7Kf-hbzJk0Ww&s=10
 
 <hr/>
 <h1 align="center">
