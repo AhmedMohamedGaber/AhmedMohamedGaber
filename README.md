@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/7c437121-8f85-4a79-9951-e8511a04b495&s=10" alt="Untitled 33design"   width="800"  />
+<img src="https://github.com/user-attachments/assets/7c437121-8f85-4a79-9951-e8511a04b495" alt="Untitled 33design"   width="800"  />
 </p>
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWNS8hCWBGqjoco0R1CbV6uxO7jO_8HLoDRO6U4gIHlmE7Kf-hbzJk0Ww&s=10" alt="Preview" width="800" />
