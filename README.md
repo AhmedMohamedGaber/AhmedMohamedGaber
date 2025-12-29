@@ -62,16 +62,27 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<be>
-<div align=center>
-<img width=390 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmohamedgaber&show_icons=true&locale=en&layout=compact&theme=react" alt="ahmedmohamedgaber" />
 
-&nbsp;<img width=390  align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmohamedgaber&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10" alt="ahmedmohamedgaber" />
-
-<img width=390  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmohamedgaber&theme=react" alt="ahmedmohamedgaber" />
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ahmedmohamedgaber&show_icons=true&theme=react&border_radius=10"
+    width="360"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmohamedgaber&theme=react"
+    width="360"
+  />
 </div>
 
 <br/>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmohamedgaber&layout=compact&theme=react"
+    width="360"
+  />
+</div>
+
 <hr/>
 
 <div align="center">
