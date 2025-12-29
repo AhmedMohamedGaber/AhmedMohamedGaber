@@ -1,12 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmohamedgaber&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmohamedgaber" /> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" /></p>
-
 <p align="center">
-  <img 
+  <img
     src="https://codewithahmed.vercel.app/lovable-uploads/24e25eee-7c53-47d1-816e-ebb79bbe587a.png"
-    alt="Untitled 33 design"
-    width="800"
+    alt="Preview"
+    height="350"
   />
 </p>
+
 
 
 
