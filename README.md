@@ -1,9 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmohamedgaber&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmohamedgaber" /> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" /></p>
 
-https://codewithahmed.vercel.app/lovable-uploads/24e25eee-7c53-47d1-816e-ebb79bbe587a.png
 <p align="center">
-<img src="[https://github.com/user-attachments/assets/7c437121-8f85-4a79-9951-e8511a04b495](https://codewithahmed.vercel.app/lovable-uploads/24e25eee-7c53-47d1-816e-ebb79bbe587a.png)" alt="Untitled 33design"   width="800"  />
+  <img 
+    src="https://codewithahmed.vercel.app/lovable-uploads/24e25eee-7c53-47d1-816e-ebb79bbe587a.png"
+    alt="Untitled 33 design"
+    width="800"
+  />
 </p>
+
 
 
 <hr/>
