@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmohamedgaber&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmohamedgaber" /> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" /></p>
 <p align="center">
   <img
-    src="https://codewithahmed.vercel.app/lovable-uploads/24e25eee-7c53-47d1-816e-ebb79bbe587a.png"
+    src="https://github.com/user-attachments/assets/07dec9a2-158f-4b91-90f7-28161c7260b7"
     alt="Preview"
     height="350"
   />
@@ -39,7 +39,7 @@
   <a href="https://www.linkedin.com/in/ahmed-mohamed-gaber-65bb39238/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://codewithahmed.vercel.app/" target="_blank">
+  <a href="https://gaberx.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
