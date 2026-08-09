@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Asp.net**
 
-- 📫 How to reach me **<a href="mailto:elhmzawy91@gmail.com">Gmail</a>**
+- 📫 How to reach me **<a href="mailto:ahmed.mohamed.gaberx@gmail.com">Gmail</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,7 +31,7 @@
   
 </p>
 <div align="center"> 
-  <a href="mailto:elhmzawy91@gmail.com">
+  <a href="mailto:ahmed.mohamed.gaberx@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/ahmed-mohamed-gaber-65bb39238/" target="_blank">
