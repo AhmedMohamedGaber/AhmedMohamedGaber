@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1f6feb&height=110&section=header"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmohamedgaber&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmohamedgaber" /> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmohamedgaber&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmohamedgaber" /> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ahmedmohamedgaber.ahmedmohamedgaber" /></p>
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/07dec9a2-158f-4b91-90f7-28161c7260b7"
@@ -15,7 +15,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=680&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Mohamed!;+Full+Stack+.NET+%26+React+Developer👨🏻‍💻;+I'm+from+Egypt🐫☪️▲𓂀𓋹𓁈𓃠𓆃☥𓅓𓆣...;+Based+in+Jeddah,+Saudi+Arabia...;" />
 </h1>
 
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/6cb1e1ba-14fa-4c55-881c-ab47b84c5784">
 
 
 
@@ -53,7 +53,10 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedMohamedGaber/AhmedMohamedGaber/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AhmedMohamedGaber/AhmedMohamedGaber/output/github-contribution-grid-snake.svg" />
+  </picture>
   
   <br/><br/><br/>
 </div>
@@ -67,6 +70,9 @@
 <h2 align="center">⚡ Stats ⚡</h2> <be> <div align=center> <img width=390 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmohamedgaber&show_icons=true&locale=en&layout=compact&theme=react" alt="ahmedmohamedgaber" /> &nbsp;<img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmohamedgaber&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10" alt="ahmedmohamedgaber" /> <img width=390 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmohamedgaber&theme=react" alt="ahmedmohamedgaber" /> </div> <br/>
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedmohamedgaber&theme=react-dark&hide_border=true&area=true" alt="Ahmed's GitHub activity graph" />
+</div> <br/>
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/AhmedMohamedGaber/AhmedMohamedGaber/main/metrics.svg" alt="Ahmed's GitHub metrics" />
 </div>
 <br/>
 <h2 align="center">✍️ Random Dev Quote</h2>
