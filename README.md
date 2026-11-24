@@ -10,7 +10,7 @@
 
 <hr/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=680&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Mohamed!;+Full+Stack+.NET+%26+React+Developer👨🏻‍💻;+Based+in+Jeddah,+Saudi+Arabia...;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=680&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Mohamed!;+Full+Stack+.NET+%26+React+Developer👨🏻‍💻;+I'm+from+Egypt🐫☪️▲𓂀𓋹𓁈𓃠𓆃☥𓅓𓆣...;+Living+in+Jeddah,+Saudi+Arabia+📍...;" />
 </h1>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif">
@@ -18,6 +18,7 @@
 
 
 - 🌱 I'm a **Full Stack .NET & React developer**, building web applications with ASP.NET Core, React, and TypeScript.
+- 📍 I'm from **Egypt** 🇪🇬, living in **Jeddah, Saudi Arabia**.
 - 👨‍💻 My projects are available on [GitHub](https://github.com/AhmedMohamedGaber).
 - 💬 Ask me about **ASP.NET Core, React, and TypeScript**.
 - 📫 Reach me at **<a href="mailto:ahmed.mohamed.gaberx@gmail.com">Gmail</a>**.
@@ -61,4 +62,13 @@
 
 
 
-<h2 align="center">⚡ Stats ⚡</h2> <be> <div align=center> <img width=390 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmohamedgaber&show_icons=true&locale=en&layout=compact&theme=react" alt="ahmedmohamedgaber" /> &nbsp;<img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmohamedgaber&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10" alt="ahmedmohamedgaber" /> <img width=390 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmohamedgaber&theme=react" alt="ahmedmohamedgaber" /> </div> <br/> <hr/> <div align="center"> <a href="https://www.paypal.com/paypalme/elhmzay91gmailcom" target="_blank"> <img height="64" style="border:0px;height:64px;" src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_111x69.jpg" border="0" alt="Donate with PayPal" /> </a> </div> <br/>
+<h2 align="center">⚡ Stats ⚡</h2> <be> <div align=center> <img width=390 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmohamedgaber&show_icons=true&locale=en&layout=compact&theme=react" alt="ahmedmohamedgaber" /> &nbsp;<img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmohamedgaber&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10" alt="ahmedmohamedgaber" /> <img width=390 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmohamedgaber&theme=react" alt="ahmedmohamedgaber" /> </div> <br/> <hr/> <h2 align="center">☕ Support Me ☕</h2>
+<div align="center">
+  <a href="https://www.paypal.com/paypalme/elhmzay91gmailcom" target="_blank">
+    <img height="64" style="border:0px;height:64px;" src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_111x69.jpg" border="0" alt="Donate with PayPal" />
+  </a>
+  <a href="https://app.binance.com/uni-qr/NH4Wo8vU" target="_blank">
+    <img height="64" style="border:0px;height:64px;" src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" alt="Donate with Binance" />
+  </a>
+</div>
+<br/>
