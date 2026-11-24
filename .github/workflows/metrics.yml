@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 6 * * *"
+    - cron: '0 6 * * *'
   workflow_dispatch:
 
 permissions:
@@ -26,3 +26,16 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           config_timezone: Asia/Riyadh
+          config_padding: 0, 30 + 12%
+          extras_css: |
+            svg { background-color: #0d1117; border-radius: 6px; }
+            h1 { color: #f0f6fc !important; }
+            h2, h3, h2.field, h3.field { color: #f0f6fc !important; }
+            h1 svg, h2 svg, h3 svg { fill: #8b949e !important; }
+            .field, footer { color: #8b949e !important; }
+            h2, h3 { transform: translateZ(0); }
+            [fill="#ebedf0"] { fill: #161b22; }
+            [fill="#9be9a8"] { fill: #0e4429; }
+            [fill="#40c463"] { fill: #006d32; }
+            [fill="#30a14e"] { fill: #26a641; }
+            [fill="#216e39"] { fill: #39d353; }
