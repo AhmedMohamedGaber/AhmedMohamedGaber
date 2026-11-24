@@ -24,5 +24,5 @@ jobs:
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          publish_dir: ./dist
-          publish_branch: output
+          build_dir: ./dist
+          deploy_branch: output
