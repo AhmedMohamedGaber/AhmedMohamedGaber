@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1f6feb&height=110&section=header"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmohamedgaber&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmohamedgaber" /> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" /></p>
 <p align="center">
   <img
@@ -10,7 +12,7 @@
 
 <hr/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=680&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Mohamed!;+Full+Stack+.NET+%26+React+Developer👨🏻‍💻;+I'm+from+Egypt🐫☪️▲𓂀𓋹𓁈𓃠𓆃☥𓅓𓆣...;+Living+in+Jeddah,+Saudi+Arabia+📍...;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=680&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Mohamed!;+Full+Stack+.NET+%26+React+Developer👨🏻‍💻;+I'm+from+Egypt🐫☪️▲𓂀𓋹𓁈𓃠𓆃☥𓅓𓆣...;+Based+in+Jeddah,+Saudi+Arabia...;" />
 </h1>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif">
@@ -18,7 +20,7 @@
 
 
 - 🌱 I'm a **Full Stack .NET & React developer**, building web applications with ASP.NET Core, React, and TypeScript.
-- 📍 I'm from **Egypt** 🇪🇬, living in **Jeddah, Saudi Arabia**.
+- I'm from **Egypt** 🇪🇬, based in **Jeddah, Saudi Arabia**.
 - 👨‍💻 My projects are available on [GitHub](https://github.com/AhmedMohamedGaber).
 - 💬 Ask me about **ASP.NET Core, React, and TypeScript**.
 - 📫 Reach me at **<a href="mailto:ahmed.mohamed.gaberx@gmail.com">Gmail</a>**.
@@ -62,7 +64,16 @@
 
 
 
-<h2 align="center">⚡ Stats ⚡</h2> <be> <div align=center> <img width=390 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmohamedgaber&show_icons=true&locale=en&layout=compact&theme=react" alt="ahmedmohamedgaber" /> &nbsp;<img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmohamedgaber&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10" alt="ahmedmohamedgaber" /> <img width=390 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmohamedgaber&theme=react" alt="ahmedmohamedgaber" /> </div> <br/> <hr/> <h2 align="center">☕ Support Me ☕</h2>
+<h2 align="center">⚡ Stats ⚡</h2> <be> <div align=center> <img width=390 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmohamedgaber&show_icons=true&locale=en&layout=compact&theme=react" alt="ahmedmohamedgaber" /> &nbsp;<img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmohamedgaber&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10" alt="ahmedmohamedgaber" /> <img width=390 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmohamedgaber&theme=react" alt="ahmedmohamedgaber" /> </div> <br/>
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedmohamedgaber&theme=react-dark&hide_border=true&area=true" alt="Ahmed's GitHub activity graph" />
+</div>
+<br/>
+<h2 align="center">✍️ Random Dev Quote</h2>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote" />
+</div>
+<br/> <hr/> <h2 align="center">☕ Support Me ☕</h2>
 <div align="center">
   <a href="https://www.paypal.com/paypalme/elhmzay91gmailcom" target="_blank">
     <img height="64" style="border:0px;height:64px;" src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_111x69.jpg" border="0" alt="Donate with PayPal" />
@@ -72,3 +83,5 @@
   </a>
 </div>
 <br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0e75b6&height=100&section=footer"/>
