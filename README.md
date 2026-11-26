@@ -72,7 +72,10 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedmohamedgaber&theme=react-dark&hide_border=true&area=true" alt="Ahmed's GitHub activity graph" />
 </div> <br/>
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/AhmedMohamedGaber/AhmedMohamedGaber/main/metrics.svg" alt="Ahmed's GitHub metrics" />
+  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding" />
+  <br/><br/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Building+things+with+C%23+%26+React;Turning+coffee+into+clean+code;Always+learning,+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 <br/>
 <h2 align="center">✍️ Random Dev Quote</h2>
